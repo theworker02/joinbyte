@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/joinbyte",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Join list/byte set operations for shell-friendly data wrangling.",
+  "bin": {
+    "joinbyte": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/joinbyte.git"
+  },
+  "homepage": "https://theworker02.github.io/joinbyte/",
+  "keywords": [
+    "join",
+    "byte",
+    "list",
+    "cli",
+    "toolkit"
+  ]
+}
